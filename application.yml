@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+      allow-ovveride: true
+      override-none: true
+      
