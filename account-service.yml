@@ -2,3 +2,12 @@ spring:
   config:
     activate:
       on-profile: default
+
+cnj:
+  message: Hello Anas
+
+sample:
+  string:
+    property: Client Application
+  int:
+    property: 3
